@@ -37,7 +37,6 @@ body {
 }
 .content .column {
   border: 2px solid rgba(0, 0, 0, 0.336);
-  border-radius: 5px;
   padding: 2px 2px;
   width: calc(100% / 3 - 5px);
 }
